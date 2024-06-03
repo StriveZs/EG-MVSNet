@@ -27,3 +27,17 @@ python train.py
 ```
 python train.py 
 ```
+
+## Citation
+If you find our work useful in your research, please consider citing:
+```
+@article{zhang2024edge,
+  title={Edge aware depth inference for large-scale aerial building multi-view stereo},
+  author={Zhang, Song and Wei, ZhiWei and Xu, WenJia and Zhang, LiLi and Wang, Yang and Zhang, JinMing and Liu, JunYi},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={207},
+  pages={27--42},
+  year={2024},
+  publisher={Elsevier}
+}
+```
